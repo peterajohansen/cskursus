@@ -1,0 +1,10 @@
+C:\Users\b19416\Desktop\cSharpRepos\MetStatisk\bin\Debug\netcoreapp2.0\MetStatisk.deps.json
+C:\Users\b19416\Desktop\cSharpRepos\MetStatisk\bin\Debug\netcoreapp2.0\MetStatisk.runtimeconfig.json
+C:\Users\b19416\Desktop\cSharpRepos\MetStatisk\bin\Debug\netcoreapp2.0\MetStatisk.runtimeconfig.dev.json
+C:\Users\b19416\Desktop\cSharpRepos\MetStatisk\bin\Debug\netcoreapp2.0\MetStatisk.dll
+C:\Users\b19416\Desktop\cSharpRepos\MetStatisk\bin\Debug\netcoreapp2.0\MetStatisk.pdb
+C:\Users\b19416\Desktop\cSharpRepos\MetStatisk\obj\Debug\netcoreapp2.0\MetStatisk.csproj.CoreCompileInputs.cache
+C:\Users\b19416\Desktop\cSharpRepos\MetStatisk\obj\Debug\netcoreapp2.0\MetStatisk.AssemblyInfoInputs.cache
+C:\Users\b19416\Desktop\cSharpRepos\MetStatisk\obj\Debug\netcoreapp2.0\MetStatisk.AssemblyInfo.cs
+C:\Users\b19416\Desktop\cSharpRepos\MetStatisk\obj\Debug\netcoreapp2.0\MetStatisk.dll
+C:\Users\b19416\Desktop\cSharpRepos\MetStatisk\obj\Debug\netcoreapp2.0\MetStatisk.pdb
