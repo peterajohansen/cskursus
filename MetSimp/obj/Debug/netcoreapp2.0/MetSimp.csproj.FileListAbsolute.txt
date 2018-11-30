@@ -1,0 +1,11 @@
+C:\Users\b19416\Desktop\cSharpRepos\MetSimp\bin\Debug\netcoreapp2.0\MetSimp.deps.json
+C:\Users\b19416\Desktop\cSharpRepos\MetSimp\bin\Debug\netcoreapp2.0\MetSimp.runtimeconfig.json
+C:\Users\b19416\Desktop\cSharpRepos\MetSimp\bin\Debug\netcoreapp2.0\MetSimp.runtimeconfig.dev.json
+C:\Users\b19416\Desktop\cSharpRepos\MetSimp\bin\Debug\netcoreapp2.0\MetSimp.dll
+C:\Users\b19416\Desktop\cSharpRepos\MetSimp\bin\Debug\netcoreapp2.0\MetSimp.pdb
+C:\Users\b19416\Desktop\cSharpRepos\MetSimp\obj\Debug\netcoreapp2.0\MetSimp.csprojAssemblyReference.cache
+C:\Users\b19416\Desktop\cSharpRepos\MetSimp\obj\Debug\netcoreapp2.0\MetSimp.csproj.CoreCompileInputs.cache
+C:\Users\b19416\Desktop\cSharpRepos\MetSimp\obj\Debug\netcoreapp2.0\MetSimp.AssemblyInfoInputs.cache
+C:\Users\b19416\Desktop\cSharpRepos\MetSimp\obj\Debug\netcoreapp2.0\MetSimp.AssemblyInfo.cs
+C:\Users\b19416\Desktop\cSharpRepos\MetSimp\obj\Debug\netcoreapp2.0\MetSimp.dll
+C:\Users\b19416\Desktop\cSharpRepos\MetSimp\obj\Debug\netcoreapp2.0\MetSimp.pdb

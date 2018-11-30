@@ -1,0 +1,11 @@
+C:\Users\b19416\Desktop\cSharpRepos\MetOverload\obj\Debug\netcoreapp2.0\MetOverload.csproj.CoreCompileInputs.cache
+C:\Users\b19416\Desktop\cSharpRepos\MetOverload\obj\Debug\netcoreapp2.0\MetOverload.AssemblyInfoInputs.cache
+C:\Users\b19416\Desktop\cSharpRepos\MetOverload\obj\Debug\netcoreapp2.0\MetOverload.AssemblyInfo.cs
+C:\Users\b19416\Desktop\cSharpRepos\MetOverload\bin\Debug\netcoreapp2.0\MetOverload.deps.json
+C:\Users\b19416\Desktop\cSharpRepos\MetOverload\bin\Debug\netcoreapp2.0\MetOverload.runtimeconfig.json
+C:\Users\b19416\Desktop\cSharpRepos\MetOverload\bin\Debug\netcoreapp2.0\MetOverload.runtimeconfig.dev.json
+C:\Users\b19416\Desktop\cSharpRepos\MetOverload\bin\Debug\netcoreapp2.0\MetOverload.dll
+C:\Users\b19416\Desktop\cSharpRepos\MetOverload\bin\Debug\netcoreapp2.0\MetOverload.pdb
+C:\Users\b19416\Desktop\cSharpRepos\MetOverload\obj\Debug\netcoreapp2.0\MetOverload.dll
+C:\Users\b19416\Desktop\cSharpRepos\MetOverload\obj\Debug\netcoreapp2.0\MetOverload.pdb
+C:\Users\b19416\Desktop\cSharpRepos\MetOverload\obj\Debug\netcoreapp2.0\MetOverload.csprojAssemblyReference.cache
