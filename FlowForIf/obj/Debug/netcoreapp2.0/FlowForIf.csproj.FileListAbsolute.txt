@@ -1,0 +1,11 @@
+C:\Users\b19416\Desktop\cSharpRepos\FlowForIf\bin\Debug\netcoreapp2.0\FlowForIf.deps.json
+C:\Users\b19416\Desktop\cSharpRepos\FlowForIf\bin\Debug\netcoreapp2.0\FlowForIf.runtimeconfig.json
+C:\Users\b19416\Desktop\cSharpRepos\FlowForIf\bin\Debug\netcoreapp2.0\FlowForIf.runtimeconfig.dev.json
+C:\Users\b19416\Desktop\cSharpRepos\FlowForIf\bin\Debug\netcoreapp2.0\FlowForIf.dll
+C:\Users\b19416\Desktop\cSharpRepos\FlowForIf\bin\Debug\netcoreapp2.0\FlowForIf.pdb
+C:\Users\b19416\Desktop\cSharpRepos\FlowForIf\obj\Debug\netcoreapp2.0\FlowForIf.csprojAssemblyReference.cache
+C:\Users\b19416\Desktop\cSharpRepos\FlowForIf\obj\Debug\netcoreapp2.0\FlowForIf.csproj.CoreCompileInputs.cache
+C:\Users\b19416\Desktop\cSharpRepos\FlowForIf\obj\Debug\netcoreapp2.0\FlowForIf.AssemblyInfoInputs.cache
+C:\Users\b19416\Desktop\cSharpRepos\FlowForIf\obj\Debug\netcoreapp2.0\FlowForIf.AssemblyInfo.cs
+C:\Users\b19416\Desktop\cSharpRepos\FlowForIf\obj\Debug\netcoreapp2.0\FlowForIf.dll
+C:\Users\b19416\Desktop\cSharpRepos\FlowForIf\obj\Debug\netcoreapp2.0\FlowForIf.pdb
