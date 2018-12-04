@@ -42,6 +42,7 @@ namespace ConsoleApp1
 
 
                 Console.WriteLine("Antal forsøg tilbage: " + (3-i) + " " + ex.Message);
+                return ( i );
                 //throw;
             }
         }
