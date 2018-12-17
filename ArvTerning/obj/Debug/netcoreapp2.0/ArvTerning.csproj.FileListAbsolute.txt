@@ -1,0 +1,11 @@
+C:\Users\b19416\Desktop\cSharpRepos\ArvTerning\obj\Debug\netcoreapp2.0\ArvTerning.csprojAssemblyReference.cache
+C:\Users\b19416\Desktop\cSharpRepos\ArvTerning\obj\Debug\netcoreapp2.0\ArvTerning.csproj.CoreCompileInputs.cache
+C:\Users\b19416\Desktop\cSharpRepos\ArvTerning\obj\Debug\netcoreapp2.0\ArvTerning.AssemblyInfoInputs.cache
+C:\Users\b19416\Desktop\cSharpRepos\ArvTerning\obj\Debug\netcoreapp2.0\ArvTerning.AssemblyInfo.cs
+C:\Users\b19416\Desktop\cSharpRepos\ArvTerning\bin\Debug\netcoreapp2.0\ArvTerning.deps.json
+C:\Users\b19416\Desktop\cSharpRepos\ArvTerning\bin\Debug\netcoreapp2.0\ArvTerning.runtimeconfig.json
+C:\Users\b19416\Desktop\cSharpRepos\ArvTerning\bin\Debug\netcoreapp2.0\ArvTerning.runtimeconfig.dev.json
+C:\Users\b19416\Desktop\cSharpRepos\ArvTerning\bin\Debug\netcoreapp2.0\ArvTerning.dll
+C:\Users\b19416\Desktop\cSharpRepos\ArvTerning\bin\Debug\netcoreapp2.0\ArvTerning.pdb
+C:\Users\b19416\Desktop\cSharpRepos\ArvTerning\obj\Debug\netcoreapp2.0\ArvTerning.dll
+C:\Users\b19416\Desktop\cSharpRepos\ArvTerning\obj\Debug\netcoreapp2.0\ArvTerning.pdb
