@@ -6,19 +6,30 @@ namespace ArvTerning
     {
         static void Main(string[] args)
         {
+            for (int i = 0; i < 5; i++)
+            {
+                Terning t1 = new Terning();
+                Console.WriteLine("ryst " + i);
+                t1.Skriv();
+            }
 
-            Terning t1 = new Terning();
-            
-            t1.Skriv();
-
-            // set til 3
+            //set til 3
             LudoTerning t2 = new LudoTerning(3);
-            
+
             t2.Skriv();
-            
+
             Console.WriteLine(t2.ErGlobus());
             Console.WriteLine(t2.ErStjerne());
 
+            // 
+            for (int i = 0; i < 4; i++)
+            {
+                LudoTerning t3 = new LudoTerning();
+                Console.WriteLine("ryst " + i);
+                t3.Skriv();
+                Console.WriteLine("Globus  " + t3.ErGlobus());
+                Console.WriteLine("Stjerne " + t3.ErStjerne());
+            }
 
             if (System.Diagnostics.Debugger.IsAttached)
             {
@@ -60,12 +71,12 @@ namespace ArvTerning
 
         public void Ryst()
         {
-            this.Værdi = r1.Next( 1, 7);
- 
+            this.Værdi = r1.Next(1, 7);
+
         }
         public void Skriv()
         {
- 
+
             Console.WriteLine(this.Værdi);
 
         }
